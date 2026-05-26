@@ -1,5 +1,4 @@
 console.log("Hello World")
-console.log("Hello World")
 
 // document.write("Hello world")
 
@@ -15,6 +14,6 @@ value or "null"
 to declare a variable
 var variableName
 let x = 10
-x = 20     //Redeclaration is possible in let, But re-initialization is not allowed 
-//re-initialization is allowed in var
+x = 20     //Redeclaration is not allowed in let, But re-declaration is not allowed 
+//re-declaration is allowed in var
 */
